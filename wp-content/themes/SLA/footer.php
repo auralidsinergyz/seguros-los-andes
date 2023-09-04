@@ -33,7 +33,7 @@
 					<div class="area-footer col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						<div class="title-footer"> Enlaces de Inter&eacute;s</div>
 						<ul class="nav-item-footer" style="text-align: left !important;">
-							<li><i class="fa fa-university fa-lg" style="color= #dd9933;"></i><a href="http://www.sudeseg.gob.ve/" target="_blank" title="Superintendencia de la Actividad Aseguradora" >     SUDEASEG<a/></li>
+							<li><i class="fa fa-university fa-lg" style="color= #dd9933;"></i><a href="http://www.sudeaseg.gob.ve/" target="_blank" title="Superintendencia de la Actividad Aseguradora" >     SUDEASEG<a/></li>
 							<li><i class="fa fa-hospital-o fa-lg" style="color= #dd9933;"></i><a href="http://www.seguroslosandes.com/wp-content/themes/SLA/inc/doc/Aviso-Publico-Sala-SUDEASEG.pdf" target="_blank" title="Sala  Situacional de Salud" >     Sala  Situacional de Salud<a/></li>
 							<li><i class="fa fa-thumbs-o-up fa-lg" style="color= #dd9933;"></i><a href="http://www.seguroslosandes.com/?page_id=94" title="Unidad de Prevenci&oacute;n y Control de Legitimaci&oacute;n de Capitales y FT" >     UPCLC/FT<a/></li>
 							<li><i class="fa fa-credit-card fa-lg" style="color= #dd9933;"></i><a href="http://www.seguroslosandes.com/?page_id=130" title="Tipos de Pago" >     Tipos de Pago<a/></li>
