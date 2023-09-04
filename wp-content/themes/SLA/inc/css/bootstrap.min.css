@@ -1605,7 +1605,7 @@ pre code {
     width: 100%;
   }
   .fondo-desktop{
-		background-image:url("http://www.seguroslosandes.com/wp-content/themes/SLA/inc/images/fondo-header-SLA.png");
+		/* background-image:url("http://www.seguroslosandes.com/wp-content/themes/SLA/inc/images/fondo-header-SLA.png"); */
 		/*height: 115px;*/
 	}
 }
@@ -2455,6 +2455,9 @@ table th[class*="col-"] {
   overflow-x: auto;
 }
 @media screen and (max-width: 767px) {
+  .ssl-box-inf {display: flex;
+    justify-content: center;
+    align-items: center;}
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;
@@ -2976,6 +2979,10 @@ select[multiple].form-group-lg .form-control {
   margin-left: -15px;
 }
 @media (min-width: 768px) {
+  .ssl-box-inf {display: flex;
+    justify-content: center;
+    align-items: center;}
+
   .form-horizontal .control-label {
     padding-top: 7px;
     margin-bottom: 0;
@@ -6617,7 +6624,7 @@ button.close {
 	background-size: 100% auto;
 }
 .border-top{
-	background-image: url("http://www.seguroslosandes.com/wp-content/themes/SLA/inc/images/borde-top.png");
+	/* background-image: url("http://www.seguroslosandes.com/wp-content/themes/SLA/inc/images/borde-top.png"); */
 	width:100%;
 	height:5px;
 }
@@ -6875,7 +6882,7 @@ button.close {
 }
 @media (min-width: 992px) and (max-width: 1199px) {
 	.fondo-desktop{
-		background-image:url("http://www.seguroslosandes.com/wp-content/themes/SLA/inc/images/fondo-header-SLA_min_992.png");
+		/* background-image:url("http://www.seguroslosandes.com/wp-content/themes/SLA/inc/images/fondo-header-SLA_min_992.png"); */
 	}
 	.info-home-title span{
 		font-size:65px;
